@@ -1,1 +1,1 @@
-# TNTBot-HelpCenter
+# TNT Bot Help Center
