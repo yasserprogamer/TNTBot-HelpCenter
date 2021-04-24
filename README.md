@@ -3,5 +3,6 @@ Welcome everoyne to __**TNT Bot Help Center**__, Here we can help you for your p
 
 # Other supports
 Join us at:
-- [Discord server](https://discord.gg/BKY2jjcH7g)
+- [Discord server](https://yasserprogamer.000webhostapp.com/Discord)
+- [Website](https://yasserprogamer.000webhostapp.com/)<br/>
 Repository created by: Yasserprogamer
