@@ -8,6 +8,9 @@ Welcome everoyne to __**TNT Bot Help Center**__, Here we can help you for your p
 - [Discord](https://discord.com/oauth2/authorize?client_id=720641361082056724&permissions=8&response_type=code&scope=bot)
 
 ## Issues
+### Report a bug or issue
+Please open new [issue](https://github.com/yasserprogamer/TNTBot-HelpCenter/issues) and we will reply for the problem you got! If the bug doesn't fixed we will remove **Command** or **System** or we will ignore the problem and close your issue
+
 ### TNT Bot offline issue
 Why TNT Bot isn't 24/7h online exactly? TNT Bot is 24/7h! But not exactly because it hosted using HeroKu & GitHub not by us! Well we need to pay a host to make our Discord Bot 24/7h online! and we don't have money for that! or even credit card. Well you need to wait to make bot online again, The time you need to wait: 1 week  - 4 weeks!
 
