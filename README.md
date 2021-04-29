@@ -20,6 +20,7 @@ Why TNT Bot isn't 24/7h online exactly? TNT Bot is 24/7h! But not exactly becaus
 ## Other supports
 Join us at:
 - [Discord server](https://yasserprogamer.000webhostapp.com/Discord)
+- [Twitter](https://twitter.com/yasserprogamer)
 - [Website](https://yasserprogamer.000webhostapp.com/)<br/>
 
 Repository created by: Yasserprogamer
