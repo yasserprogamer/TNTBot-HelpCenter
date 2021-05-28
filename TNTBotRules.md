@@ -27,4 +27,4 @@
 **You are able to read rules from different websites**:
 
 - **Official Bot website**: Coming soon
-- **Google sites**: Coming soon
+- **Google sites**: https://sites.google.com/view/tntbotdocuments/rules
