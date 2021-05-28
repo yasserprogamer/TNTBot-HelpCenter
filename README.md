@@ -1,11 +1,5 @@
 # 📋 TNT Bot help center
 
-### Table of content
-
-[TOC]
-
-****
-
 ### Description
 
 **TNT Bot help center** is a GitHub repository made by Discord Bot creator. It has created to help other people to fix errors and bugs. Also it is made for making issues & fix it and chatting with other persons. <u>Everything you make and report it will be noted</u>.<br/>
@@ -18,6 +12,10 @@ TNT Bot has absolutely 4 - 3 links. You are able to check it every time:<br/>
 **TNT Bot Website**: [Click here<br/>](https://yasserprogamer.000webhostapp.com/)
 **Invite link**: https://discord.com/oauth2/authorize?client_id=720641361082056724&permissions=8&response_type=code&scope=bot<br/>
 **TOP.GG**: https://top.gg/bot/720641361082056724<br/>
+
+### What is TNT Bot prefix?
+
+TNT Bot prefix is currently: `!`. And for commands list & help list: `!help`. If There any bugs at that! Please report by making issue or using `!bug <message>` or by making an appeal from our website.
 
 ### How to make an issue?
 It is very easy and simple. You just need to follow this steps:<br/>
