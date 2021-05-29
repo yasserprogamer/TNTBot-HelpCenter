@@ -65,3 +65,7 @@ Join/Follow us at:
 **Discord**: **https://discord.gg/invite/wJtBMnu** <br/>
 **GitHub**: **https://github.com/yasserprogamer/** <br/>
 **Twitter**: **https://twitter.com/yasserprogamer/** <br/>
+
+<head>
+  <title>Main file | TNT Bot Help Center | TNT Bot</title>
+</head>
