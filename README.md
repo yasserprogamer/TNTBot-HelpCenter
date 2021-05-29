@@ -9,9 +9,9 @@
 
 ### TNT Bot links
 TNT Bot has absolutely 4 - 3 links. You are able to check it every time:<br/>
-**TNT Bot Website**: [Click here<br/>](https://yasserprogamer.000webhostapp.com/)
-**Invite link**: https://discord.com/oauth2/authorize?client_id=720641361082056724&permissions=8&response_type=code&scope=bot<br/>
-**TOP.GG**: https://top.gg/bot/720641361082056724<br/>
+**TNT Bot Website**: **[Click here<br/>](https://yasserprogamer.000webhostapp.com/)**<br/>
+**Invite link**: **[https://discord.com/oauth2/authorize?client_id=720641361082056724&permissions=8&response_type=code&scope=bot](https://discord.com/oauth2/authorize?client_id=720641361082056724&permissions=8&response_type=code&scope=bot)**<br/>
+**TOP.GG**: **[https://top.gg/bot/720641361082056724](https://top.gg/bot/720641361082056724)**<br/>
 
 ### What is TNT Bot prefix?
 
@@ -20,7 +20,7 @@ TNT Bot prefix is currently: `!`. And for commands list & help list: `!help`. If
 ### How to make an issue?
 It is very easy and simple. You just need to follow this steps:<br/>
 
-- Click "issues" button or [click here](https://github.com/yasserprogamer/TNTBot-HelpCenter/issues)<br/>
+- Click "issues" button or **[click here](https://github.com/yasserprogamer/TNTBot-HelpCenter/issues)**<br/>
 
 If issue fixed we will close it and send confirm message before doing it!<br/>
 
@@ -30,8 +30,8 @@ If issue fixed we will close it and send confirm message before doing it!<br/>
 
 There many ways to find TNT Bot rules but we will recommend this:<br/>
 
-- **Directly from GitHub**: You are on the Official TNT Bot help center repository. Well you are able to find rules and helps here! That all you need to do is: open file [TNTBotRules.MD](https://github.com/yasserprogamer/TNTBot-HelpCenter/blob/main/TNTBotRules.MD) After done! You just have to read rules only and follow or keep it on mind!<br/>
-- **Read it from Official website of TNT Bot**: That may will not work sometimes. If site go down or page has moved or on updating you may not be able to read rules. That all you need to do is just opening this link: https://yasserprogamer.000webhostapp.com/rules# (We may change URL link soon). You are able to download PDF File or open the original link from browser or application or read it exactly from the webpage.<br/>
+- **Directly from GitHub**: You are on the Official TNT Bot help center repository. Well you are able to find rules and helps here! That all you need to do is: open file **[TNTBotRules.MD](https://github.com/yasserprogamer/TNTBot-HelpCenter/blob/main/TNTBotRules.MD)** After done! You just have to read rules only and follow or keep it on mind!<br/>
+- **Read it from Official website of TNT Bot**: That may will not work sometimes. If site go down or page has moved or on updating you may not be able to read rules. That all you need to do is just opening this link: **[https://yasserprogamer.000webhostapp.com/rules#](https://yasserprogamer.000webhostapp.com/rules#)** (We may change URL link soon). You are able to download PDF File or open the original link from browser or application or read it exactly from the webpage.<br/>
 - **From Google sites**: Coming soon.... we are making a google site to write rules on it and other documents
 
 ### How to appeal for Bot punishment
