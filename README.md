@@ -9,7 +9,7 @@
 
 ### TNT Bot links
 TNT Bot has absolutely 4 - 3 links. You are able to check it every time:<br/>
-**TNT Bot Website**: **[Click here<br/>](https://yasserprogamer.000webhostapp.com/)**<br/>
+**TNT Bot Website**: **[Click here<br/>](https://yasserprogamer.000webhostapp.com/)**
 **Invite link**: **[https://discord.com/oauth2/authorize?client_id=720641361082056724&permissions=8&response_type=code&scope=bot](https://discord.com/oauth2/authorize?client_id=720641361082056724&permissions=8&response_type=code&scope=bot)**<br/>
 **TOP.GG**: **[https://top.gg/bot/720641361082056724](https://top.gg/bot/720641361082056724)**<br/>
 
@@ -36,7 +36,7 @@ There many ways to find TNT Bot rules but we will recommend this:<br/>
 
 ### How to appeal for Bot punishment
 
-You have to visit our website to make an appeal and we will get notification at our Discord server or Email. If you want to make one please visit: https://yasserprogamer.000webhostapp.com/appeal
+You have to visit our website to make an appeal and we will get notification at our Discord server or Email. If you want to make one please visit: **[https://yasserprogamer.000webhostapp.com/appeal](https://yasserprogamer.000webhostapp.com/appeal)**
 
 You have to do:
 
@@ -62,6 +62,6 @@ You need to vote for TNT Bot to support us to make new systems and commands also
 
 Join/Follow us at:
 
-**Discord**: **https://discord.gg/invite/wJtBMnu** <br/>
-**GitHub**: **https://github.com/yasserprogamer/** <br/>
-**Twitter**: **https://twitter.com/yasserprogamer/** <br/>
+**Discord**: **[https://discord.gg/invite/wJtBMnu](https://discord.gg/invite/wJtBMnu)** <br/>
+**GitHub**: **[https://github.com/yasserprogamer/](https://github.com/yasserprogamer/)** <br/>
+**Twitter**: **[https://twitter.com/yasserprogamer/](https://twitter.com/yasserprogamer/)** <br/>
