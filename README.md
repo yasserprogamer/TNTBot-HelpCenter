@@ -30,7 +30,7 @@ If issue fixed we will close it and send confirm message before doing it!<br/>
 
 There many ways to find TNT Bot rules but we will recommend this:<br/>
 
-- **Directly from GitHub**: You are on the Official TNT Bot help center repository. Well you are able to find rules and helps here! That all you need to do is: open file **[TNTBotRules.MD](https://github.com/yasserprogamer/TNTBot-HelpCenter/blob/main/TNTBotRules.MD)** After done! You just have to read rules only and follow or keep it on mind!<br/>
+- **Directly from GitHub**: You are on the Official TNT Bot help center repository. Well you are able to find rules and helps here! That all you need to do is: open file **[TNTBotRules.md](https://github.com/yasserprogamer/TNTBot-HelpCenter/blob/main/TNTBotRules.md)** After done! You just have to read rules only and follow or keep it on mind!<br/>
 - **Read it from Official website of TNT Bot**: That may will not work sometimes. If site go down or page has moved or on updating you may not be able to read rules. That all you need to do is just opening this link: **[https://yasserprogamer.000webhostapp.com/rules#](https://yasserprogamer.000webhostapp.com/rules#)** (We may change URL link soon). You are able to download PDF File or open the original link from browser or application or read it exactly from the webpage.<br/>
 - **From Google sites**: Coming soon.... we are making a google site to write rules on it and other documents
 
